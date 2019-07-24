@@ -1,6 +1,6 @@
 # Chess960-Lookup
 Generate or lookup Chess960 positions sequentially or randomly.
-#### 
+#### Build
 To build: gcc -O3 960v09.c -o 960Lookup
 
 #### Usage:

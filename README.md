@@ -1,7 +1,7 @@
 # Chess960-Lookup
 Generate or lookup Chess960 positions sequentially or randomly.
 #### Build
-To build: gcc -O3 960v09.c -o 960Lookup
+To build:   gcc -O3 960v09.c -o 960Lookup
 
 #### Usage:
   Enter the non-zero based 960 position number 1 through 960 for that position in PGN format.
